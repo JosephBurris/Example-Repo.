@@ -1,0 +1,3 @@
+#Ethical considerations in CS
+1.) Client protection- The creator of software should be responsible to protect the information of their client.
+2.) Copyright- Creators of software should be aware of the intellectual rights of original creators of other pieces of software.
